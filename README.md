@@ -6,7 +6,7 @@ This repository contains a selection of the projects completed during my undergr
 
 The projects in this repository are primarily written in C and Python, and are designed to demonstrate various programming concepts and skills. They include programs demonstrating memory management, design principles and algorithm and data structure knowledge.
 
-## SENG265
+## SENG265 - Software Development Methods
 
 ### Music Manager
 
