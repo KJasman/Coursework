@@ -1,6 +1,6 @@
-# SENG265 Course Projects
+# Course Projects
 
-This repository contains all the projects completed for the SENG 265 course in Summer 2023, under the guidance of Dr. Hausi Muller.
+This repository contains a selection of the projects completed during my undergraduate program, in the University of Victoria.
 
 ## Overview
 
