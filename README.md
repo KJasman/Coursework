@@ -22,7 +22,7 @@ A C program that reads and processes .ics calendar files. The program takes comm
 
 - C
 - Python
-- Various C and Python libraries
+
 
 ## Authors
 
